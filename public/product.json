@@ -1,0 +1,275 @@
+[
+    {
+       "id":1,
+       "title":"Nike G.T. Cut 3 EP",
+       "category": "Nike",
+       "price": 17495.00,
+       "image":"/images/products/nike/image1.png",
+       "status":"Best Selers",
+       "promoted":true
+    },
+    {
+        "id":9,
+       "title":"FORUM LOW SHOES",
+       "category": "Adidas",
+       "price": 9999.00,
+       "image":"/images/products/adidas/image1.png",
+       "promoted":false
+       
+    },
+    {
+        "id":17,
+       "title":"MB.03 Blue Hive Unisex Basketball Shoes",
+       "category": "Puma",
+       "price": 13999.00,
+       "image":"/images/products/puma/image1.png",
+       "status":"Best Selers",
+       "promoted":true
+    },
+    {
+        "id":2,
+       "title":"JA 1 'Fuel' EP",
+       "category": "Nike",
+       "price": 9207.00,
+       "image":"/images/products/nike/image2.png",
+       "promoted":false
+    },
+    {
+        "id":10,
+       "title":"HOOPS 3.0 MID CLASSIC VINTAGE SHOES",
+       "category": "Adidas",
+       "price": 6999.00,
+       "image":"/images/products/adidas/image2.png",
+       "promoted":false
+       
+    },
+    {
+        "id":18,
+       "title":"All-Pro NITRO™ Unisex Basketball Shoes",
+       "category": "Puma",
+       "price": 13999,
+       "image":"/images/products/puma/image2.png",
+       "status":"Best Selers",
+       "promoted":true
+    },
+    {
+        "id":3,
+       "title":"Freak 5 EP",
+       "category": "Nike",
+       "price":  11495.00,
+       "image":"/images/products/nike/image3.png",
+       "promoted":false
+       
+    },
+    {
+        "id":4,
+       "title":"Jordan Stay Loyal 3",
+       "category": "Nike",
+       "price": 9777.00,
+       "image":"/images/products/nike/image4.png",
+       "promoted":false
+    },
+    {
+        "id":11,
+       "title":"OWNTHEGAME SHOES",
+       "category": "Adidas",
+       "price": 6999.00,
+       "image":"/images/products/adidas/image3.png",
+       "promoted":false
+    },
+    {
+        "id":12,
+       "title":"JOLT RUNNER M",
+       "category": "Adidas",
+       "price": 2639.50,
+       "image":"/images/products/adidas/image4.png",
+       "promoted":false
+    },
+    {
+        "id":19,
+       "title":"Genetics Unisex Basketball Shoes",
+       "category": "Puma",
+       "price": 9999,
+       "image":"/images/products/puma/image3.png",
+       "status":"Best Selers",
+       "promoted":true
+    },
+    {
+        "id":20,
+       "title":"Playmaker Pro Mid Men's Sneakers",
+       "category": "Puma",
+       "price": 6499,
+       "image":"/images/products/puma/image4.png",
+       "status":"Best Selers",
+       "promoted":false
+    },
+    {
+        "id":5,
+       "title":"Nike Elevate 3",
+       "category": "Nike",
+       "price": 7095.00,
+       "image":"/images/products/nike/image5.png",
+       "promoted":false
+    },
+    {
+        "id":6,
+       "title":"LeBron Witness 8 EP",
+       "category": "Nike",
+       "price": 8695.00,
+       "image":"/images/products/nike/image6.png",
+       "promoted":false
+    },
+    {
+        "id":13,
+       "title":"LUFT PACE SHOES",
+       "category": "Adidas",
+       "price": 2879.50,
+       "image":"/images/products/adidas/image5.png",
+       "promoted":true
+    },
+    {
+        "id":14,
+       "title":"QUESTAR SHOES",
+       "category": "Adidas",
+       "price": 4799.50,
+       "image":"/images/products/adidas/image6.png",
+       "promoted":false
+    },
+    {
+        "id":23,
+       "title":"Suede Classic XXI",
+       "category": "Puma",
+       "price": 6999,
+       "image":"/images/products/puma/image7.png",
+       "promoted":false
+    },
+    {
+        "id":24,
+       "title":"Playmaker Pro Mid Men's Sneakers",
+       "category": "Puma",
+       "price": 5499,
+       "image":"/images/products/puma/image8.png",
+       "promoted":true
+    },
+    {
+        "id":15,
+       "title":"STRIX 1.0 SHOES",
+       "category": "Adidas",
+       "price": 2299.50,
+       "image":"/images/products/adidas/image7.png",
+       "promoted":false
+       
+    },
+    {
+        "id":16,
+       "title":"POMAZOR SHOES",
+       "category": "Adidas",
+       "price": 19795.00,
+       "image":"/images/products/adidas/image8.png",
+       "promoted":false
+    },
+    {
+        "id":7,
+       "title":"Giannis Freak 5 ASW EP",
+       "category": "Nike",
+       "price": 11495.00,
+       "image":"/images/products/nike/image7.png",
+       "status":"Best Selers",
+       "promoted":false
+    },
+    {
+        "id":8,
+       "title":"Tatum 2 'Vortex' PF",
+       "category": "Nike",
+       "price": 11495.00,
+       "image":"/images/products/nike/image8.png",
+       "promoted":false
+    },
+    {
+        "id":21,
+       "title":"Smashic Unisex Sneakers",
+       "category": "Puma",
+       "price": 2699,
+       "image":"/images/products/puma/image5.png",
+       "promoted":true
+    },
+    {
+        "id":22,
+       "title":"BMW M Motorsport Caven",
+       "category": "Puma",
+       "price": 6999,
+       "image":"/images/products/puma/image6.png",
+       "status":"Best Selers",
+       "promoted":false
+    },
+   
+    
+    {
+        "id":25,
+       "title":"Men's/Women's Basketball Shoes",
+       "category": "Decathlon",
+       "price": 7999,
+       "image":"/images/products/decath/image1.png",
+       "status":"Best Selers",
+       "promoted":false
+    },
+    {
+        "id":31,
+       "title":"jumper",
+       "category": "Decathlon",
+       "price": 6999,
+       "image":"/images/products/decath/image7.png",
+       "promoted":false
+    },
+    {
+        "id":32,
+       "title":"hiili-billi",
+       "category": "Decathlon",
+       "price": 6999,
+       "image":"/images/products/decath/image8.png",
+       "promoted":false
+    },
+    {
+        "id":26,
+       "title":"Decath BasketBall",
+       "category": "Decathlon",
+       "price": 6999,
+       "image":"/images/products/decath/image2.png",
+       "promoted":false
+    },
+    {
+        "id":27,
+       "title":"All-Star",
+       "category": "Decathlon",
+       "price": 6999,
+       "image":"/images/products/decath/image3.png",
+       "promoted":false
+    },
+    {
+        "id":28,
+       "title":"hike-2",
+       "category": "Decathlon",
+       "price": 6999,
+       "image":"/images/products/decath/image4.png",
+       "promoted":true
+    },
+    {
+        "id":29,
+       "title":"Hiking Boots",
+       "category": "Decathlon",
+       "price": 6999,
+       "image":"/images/products/decath/image5.png",
+       "promoted":false
+    },
+    {
+        "id":30,
+       "title":"sports shoe",
+       "category": "Decathlon",
+       "price": 6999,
+       "image":"/images/products/decath/image6.png",
+       "promoted":false
+    }
+    
+    
+    
+]
