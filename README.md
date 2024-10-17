@@ -22,13 +22,13 @@ This project is a shoe e-commerce website built using **React** for the frontend
 Here are some screenshots of the application:
 
 ### Homepage
-![Homepage](/images/screenshots/image1.png)
+![Homepage](./public/images/screenshots/image1.png)
 
 ### Product Listing
-![Product Listing](/images/screenshots/image3.png)
+![Product Listing](./public/images/screenshots/image3.png)
 
 ### Product Details
-![Product Details](/images/screenshots/image4.png)
+![Product Details](./public/images/screenshots/image4.png)
 
 
 
