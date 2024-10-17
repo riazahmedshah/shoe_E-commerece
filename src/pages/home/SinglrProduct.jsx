@@ -66,10 +66,10 @@ const SingleProduct = () => {
                 <div className="text-left flex flex-col gap-2 w-full">
                   <label className="font-semibold">Quantity</label>
                   <input
-                    type="number"
+                    type="number" min="0"
                     name="price"
                     id="price"
-                    defaultValue={1}
+                    defaultValue={1} 
                     required
                     className="border border-gray-400 text-sm font-semibold mb-1 max-w-full w-full outline-none rounded-md m-0 py-3 px-4
                    md:py-3 md:px-4 focus:border-red-500"
